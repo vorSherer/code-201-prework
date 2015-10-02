@@ -35,4 +35,4 @@ Remember to save the file and you'll see something like this.
 When you're done, close the file.
 
 
-### [⇐ Previous](1_terminal.md) | [Next ⇒](3_git.md)
+### [⇐ Previous](2_homebrew.md) | [Next ⇒](4_git.md)
