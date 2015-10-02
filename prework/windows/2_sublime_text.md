@@ -2,7 +2,7 @@
 
 Now it's time to install [Sublime Text](http://www.sublimetext.com/), a sophisticated text editor for code, markup, and prose.
 
-To get started, download [Sublime Text 3]http://www.sublimetext.com/3) and run the installer. Again, go with the default installation options, unless you really know you want to change something.
+To get started, download [Sublime Text 3](http://www.sublimetext.com/3) and run the installer. Again, go with the default installation options, unless you really know you want to change something.
 
 Once installed, use the Start Menu to launch Sublime Text 3.
 
