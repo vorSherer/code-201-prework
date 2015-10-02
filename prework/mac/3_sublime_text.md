@@ -34,5 +34,31 @@ Remember to save the file and you'll see something like this.
 
 When you're done, close the file.
 
+### subl
+
+You'll find it insanely useful to open files and directories into Sublime Text from the Terminal.
+
+In the event that you are using Sublime Text 2 rather than Sublime Text 3, you will run a different command. Use the one of the two commands below.
+
+To get started, run the following command:
+
+SUBLIME TEXT 2 users run this:
+```
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+```
+OR
+
+SUBLIME TEXT 3 users run this:
+```
+ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+```
+
+To verify Sublime Text is wired up correctly, run the following command.
+
+```
+subl
+```
+If the program Sublime Text opens, you're good to go.
+
 
 ### [⇐ Previous](2_homebrew.md) | [Next ⇒](4_git.md)
