@@ -68,7 +68,7 @@ When you're done, close the file.
 
 You'll find it insanely useful to open files and directories into Sublime Text from the Terminal.
 
-To verify Sublime Text is wired up correctly, run the following command:
+To verify Sublime Text is wired up correctly, run the following command in Terminal:
 
 ```
 subl 
