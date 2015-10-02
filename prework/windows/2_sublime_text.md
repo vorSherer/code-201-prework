@@ -36,22 +36,47 @@ When you're done, close the file.
 
 You'll find it insanely useful to open files and directories into Sublime Text from the Terminal.
 
-To get started, run the following command.
+To get started, run the following command:
+
+If you installed Sublime Text 2:
+```
+/c/Program\ Files/Sublime\ Text\ 2/sublime_text.exe .bash_profile
+```
+If you installed Sublime Text 3:
+```
+/c/Program\ Files/Sublime\ Text/sublime_text.exe .bash_profile
+```
+
+Bash's startup file will open in Sublime Text like this:
+
+![](https://i.imgur.com/PAjlVZf.png)
+**UPDATE to be .bash_profile**
+
+Create an alias to open Sublime Text from your command line.
+
+If you installed Sublime Text 2, type this:
+
+alias subl="/c/Program\ Files/Sublime\ Text\ 2/sublime_text.exe"
+ 
+If you installed Sublime Text 3, type this:
+
+alias subl="/c/Program\ Files/Sublime\ Text/sublime_text.exe"
+
+Now save this file by pressing CTRL + S on your keyboard.
+
+Exit Sublime Text.
+
+Now, regardless of your Sublime Text version, to verify if Sublime Text is wired up correctly, run the following command:
 
 ```
-curl -fsSL http://git.io/Famd | sh
-```
-
-To verify Sublime Text is wired up correctly, run the following command.
-
-```
-subl ~/.bashrc
+subl ~/.bash_profile
 ```
 
 And Bash's startup file will open in Sublime Text like this.
 
 ![](https://i.imgur.com/PAjlVZf.png)
 
+If Sublime Text launched, then you are good to go. Now close Sublime Text to continue on with this guide.
 
 ### Edit .bashrc
 
