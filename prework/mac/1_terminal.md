@@ -59,17 +59,12 @@ Simply stated, a Unix shell works in a read-evaluate-print loop or **REPL**.
 
 The default profile for the Terminal uses small, black text on a white background. Boring! Let's change that.
 
-1. Download the [Tomorrow Night Eighties](https://raw.githubusercontent.com/ryansobol/sea-c17-ruby/master/class1/osx/Tomorrow%20Night%20Eighties.terminal) terminal profile by holding the Option key and left-clicking the link.
-1. Navigate to the `Downloads` folder.
-1. Install the profile by double-clicking the file.
-1. You may see an alert explaining the file "cannot be opened because it is from an unidentified developer".
-  1. If so, launch the **System Preferences** app, navigate to `Security & Privacy > General`, and then click on the `Open Anyway` button. ![](https://i.imgur.com/i7sdnEz.png)
-1. Back in the Terminal app, navigate to the `Terminal > Preferences` menu item.
+1. In the Terminal app, navigate to the `Terminal > Preferences` menu item.
 1. In the preferences window, click the `Settings` Pane.
-1. On the left side, scroll to the bottom, select the `Tommorrow Night Eighties` profile, and click the `Default` button. ![](https://i.imgur.com/TQmcT8A.png)
+1. On the left side, scroll to the bottom, select the `Pro` profile, and click the `Default` button. ![](https://i.imgur.com/TQmcT8A.png)
 1. Finally, quit and relaunch the Terminal.
 
-Now, every new Terminal window will look like this.
+Now, every new Terminal window will look similar to this.
 
 ![](https://i.imgur.com/87bHvEF.png)
 
