@@ -47,7 +47,6 @@ And you'll see something like this.
 
 ![](https://i.imgur.com/jBSs1qR.png)
 
-
 ### Git Config
 
 You're on the home stretch now! :racehorse:
