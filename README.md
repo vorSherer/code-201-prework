@@ -29,10 +29,10 @@ We use Slack to distribute files and collaborate before, during, and after the w
 
 Look for an email from us prior to the workshop, in order to join our Slack team.
 
-#### 4. Code 101
+##### 4. Code 101
 If you are completely new to coding, complete [Code 101](https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech) to build your first website using HTML and CSS and to find out if a career in software development is right for you.
 
-#### 5. Tutorials
+##### 5. Tutorials
 Complete these tutorials prior to the first day of class.
 
    - [HTML/CSS Codecademy](https://www.codecademy.com/tracks/web)
