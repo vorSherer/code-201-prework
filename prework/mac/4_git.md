@@ -25,12 +25,19 @@ If you are running:
 - 10.9 Mavericks: download and install this [git-*-mavericks](http://sourceforge.net/projects/git-osx-installer/files/git-2.5.3-intel-universal-mavericks.dmg/download)
 	
 - 10.10 Yosemite: continue below
+ 
+**NOTE:** You will need to change your install permissions to be able to install Git. The installer will prompt you to do so if necessary.
 
-Now go [here](http://git-scm.com/download/mac) to install Git, the version control system of choice among choosy developers.
+Using Homebrew, you can install Git, the version control system of choice among choosy developers.
 
 Version control systems let programmers share and collaborate on code. With Git, multiple programmers can work on the same files, and Git keeps track of who made what changes, when. Git is usually used with a website, GitHub, that stores code (in "repositories") and lets programmers review and discuss changes before they are added. In short, Git makes everyone's lives easier.
 
-Once it is fully installed, open Terminal and run the following command.
+To get started, run the following command.
+```
+brew install git
+```
+
+Once it is fully installed, run the following command.
 
 ```
 git --version
