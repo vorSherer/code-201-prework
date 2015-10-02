@@ -35,4 +35,4 @@ git config --global user.email 'YOUR EMAIL ADDRESS'
 Time for a frosty beverage. :beers:
 
 
-### [⇐ Previous](2_sublime_text.md) | [README ⇒](../../../../)
+### [⇐ Previous](3_sublime_text.md) | [README ⇒](../../../../)
