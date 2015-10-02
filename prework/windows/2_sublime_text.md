@@ -73,12 +73,8 @@ Exit Sublime Text.
 Now, regardless of your Sublime Text version, to verify if Sublime Text is wired up correctly, run the following command:
 
 ```
-subl ~/.bash_profile
+subl
 ```
-
-And Bash's startup file will open in Sublime Text like this.
-
-![](https://i.imgur.com/PAjlVZf.png)
 
 If Sublime Text launched, then you are good to go. Now close Sublime Text to continue on with this guide.
 
