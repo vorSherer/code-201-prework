@@ -1,4 +1,4 @@
-Code 101: Intro to Software Development & Careers in Tech
+Code 201: Foundations of Software Development
 -----------------------
 
 ### Pre-work
