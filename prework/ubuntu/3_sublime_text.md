@@ -31,7 +31,7 @@ sudo mv Sublime\ Text\ 3 /opt/
 Finally, run this command to create a symbolic link. This will allow you to launch Sublime Text from the Terminal.
 
 ```
-sudo ln -s /opt/Sublime\ Text\ 3/sublime_text /usr/bin/sublime
+sudo ln -s /opt/Sublime\ Text\ 3/sublime_text /usr/bin/subl
 ```
 
 Once installed, use the Dash to launch Sublime Text.
