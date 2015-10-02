@@ -33,24 +33,7 @@ git config --global user.name 'YOUR FULL NAME'
 git config --global user.email 'YOUR EMAIL ADDRESS'
 ```
 
-Next, run this command to download and install some awesome colors and handy aliases for Git.
-
-```
-curl -fsSL http://git.io/7UHtNA | sh
-```
-
 We'll go over these later. For now, relish in your victory of making it this far in the setup guide. :tada:
-
-### GitHub
-
-You're on the home stretch now! :racehorse:
-
-Run the following command to download and install some extra Git configs that'll make your life easier when using GitHub from the command line.
-
-
-```
-curl -fsSL http://git.io/Ggdljw | sh
-```
 
 ### Congratulations!
 
