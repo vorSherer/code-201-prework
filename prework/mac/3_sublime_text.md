@@ -44,7 +44,7 @@ To get started, run the following command:
 
 SUBLIME TEXT 2 users run this:
 ```
-ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/sublime /usr/bin/subl
 ```
 OR
 
