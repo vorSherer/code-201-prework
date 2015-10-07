@@ -49,8 +49,6 @@ If you installed Sublime Text 3:
 
 Bash's startup file will open in Sublime Text like this:
 
-![](https://i.imgur.com/PAjlVZf.png)
-**UPDATE this image to be .bash_profile**
 
 Create an alias to open Sublime Text from your command line.
 
