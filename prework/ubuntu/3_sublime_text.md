@@ -1,6 +1,6 @@
 ### Install Sublime Text
 
-It's time to install [Sublime Text](http://www.sublimetext.com/), a sophisticated text editor for code, markup and prose.
+It's time to install [Sublime Text](http://www.sublimetext.com/3), a sophisticated text editor for code, markup and prose.
 
 To get started, run the following command in your terminal to check your operating system’s type:
 
