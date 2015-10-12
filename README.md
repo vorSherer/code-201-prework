@@ -20,6 +20,7 @@ Code 201: Foundations of Software Development
 Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
  - Be able to receive a valid response when typing "git --version"
+ - Be able to open Sublime Text from the Terminal or Git Bash.
 
 ##### 3. Download and Install Slack
 
