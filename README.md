@@ -35,7 +35,13 @@ We use Slack to distribute files and collaborate before, during, and after the w
 
 Look for an email from us prior to the workshop, in order to join our Slack team.
 
-##### 5. Tutorials
+##### 5. Purchase the required textbooks
+
+If you haven't already, purchase this textbook set prior to the first day of class:
+
+  - ['Web Design with HTML & CSS; JavaScript & jQuery' book set by Jon Duckett](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&me=)
+
+##### 6. Tutorials
 Complete these tutorials prior to the first day of class.
 
    - [HTML/CSS Codecademy](https://www.codecademy.com/tracks/web)
