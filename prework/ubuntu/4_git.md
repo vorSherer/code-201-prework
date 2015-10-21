@@ -33,7 +33,18 @@ git config --global user.name 'YOUR FULL NAME'
 git config --global user.email 'YOUR EMAIL ADDRESS'
 ```
 
-We'll go over these later. For now, relish in your victory of making it this far in the setup guide. :tada:
+The terminal does not send success messages, in order to double check that you have successfully assigned your username and email: 
+
+```
+git config --list
+```
+
+Your terminal should output the following lines:
+
+```
+user.email='YOUR EMAIL ADDRESS'
+user.name='YOUR FULL NAME'
+```
 
 ### Congratulations!
 
