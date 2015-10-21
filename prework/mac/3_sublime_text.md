@@ -40,7 +40,7 @@ You'll find it insanely useful to open files and directories into Sublime Text f
 
 In the event that you are using Sublime Text 2 rather than Sublime Text 3, you will run a different command. Use the one of the two commands below.
 
-To get started, run the following command:
+To get started, run the following command (If you're running **OS X El Capitan**, see note below):
 
 SUBLIME TEXT 2 users run this:
 ```
@@ -52,6 +52,8 @@ SUBLIME TEXT 3 users run this:
 ```
 ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/bin/subl
 ```
+
+**NOTE:** If you are running OS X El Capitan, the command above should end with "/usr/local/bin/subl" instead of "/usr/bin/subl".
 
 To verify Sublime Text is wired up correctly, run the following command.
 
