@@ -14,4 +14,4 @@ sudo apt-get update
 
 These commands tell APT where to look for certain files (Sublime Text 3 and Git). We'll use them in the next step.
 
-### [⇐ Previous](1_terminal.md) | [Next ⇒](3_sublime_text.md)
+### [⇐ Previous](1_terminal.md) | [Next ⇒](3_atom.md)
