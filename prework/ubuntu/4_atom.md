@@ -30,5 +30,8 @@ If Atom opens, you're good to go.
 
 If Atom does not open, please notify an instructor or TA in your class Slack channel.
 
+### Congratulations!
 
-### [⇐ Previous](2_apt.md) | [Next ⇒](4_git.md)
+Time for a frosty beverage. :beers:
+
+### [⇐ Previous](3_git.md) | [README ⇒](../../../../)

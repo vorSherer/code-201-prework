@@ -13,4 +13,4 @@ sudo apt-get update
 
 These commands tell APT where to look for certain files (Git). We'll use them in the next step.
 
-### [⇐ Previous](1_terminal.md) | [Next ⇒](3_atom.md)
+### [⇐ Previous](1_terminal.md) | [Next ⇒](3_git.md)
