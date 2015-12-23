@@ -30,6 +30,15 @@ If Atom opens, you're good to go.
 
 If Atom does not open, please notify an instructor or TA in your class Slack channel.
 
+### Associate Atom with Git
+
+It's important to establish a default editor with Git, as it's the program that will be used to open up all of your files.
+
+Type the following command in your terminal:
+```
+git config --global core.editor "atom --wait"
+```
+
 ### Congratulations!
 
 Time for a frosty beverage. :beers:
