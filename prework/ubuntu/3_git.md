@@ -33,7 +33,7 @@ git config --global user.name 'YOUR FULL NAME'
 git config --global user.email 'YOUR EMAIL ADDRESS'
 ```
 
-The terminal does not send success messages, in order to double check that you have successfully assigned your username and email: 
+The terminal does not send success messages, in order to double check that you have successfully assigned your username and email:
 
 ```
 git config --list
@@ -46,9 +46,5 @@ user.email='YOUR EMAIL ADDRESS'
 user.name='YOUR FULL NAME'
 ```
 
-### Congratulations!
 
-Time for a frosty beverage. :beers:
-
-
-### [⇐ Previous](3_sublime_text.md) | [README ⇒](../../../../)
+### [⇐ Previous](2_apt.md) | [Next ⇒](4_atom.md)

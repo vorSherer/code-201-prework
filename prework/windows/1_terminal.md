@@ -64,4 +64,4 @@ Here's what happened:
 
 Simply stated, a Unix shell works in a read-evaluate-print loop or **REPL**.
 
-### [Next ⇒](2_sublime_text.md)
+### [Next ⇒](2_atom.md)

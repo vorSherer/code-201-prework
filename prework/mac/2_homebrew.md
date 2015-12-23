@@ -51,4 +51,4 @@ And you'll see something like this.
 ![](https://i.imgur.com/DWfdE3D.png)
 
 
-### [⇐ Previous](1_terminal.md) | [Next ⇒](3_sublime_text.md)
+### [⇐ Previous](1_terminal.md) | [Next ⇒](3_atom.md)
