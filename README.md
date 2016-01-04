@@ -25,7 +25,7 @@ If you are completely new to coding, consider completing [Code 101](https://www.
 Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
  - Be able to receive a valid response when typing "git --version"
- - Be able to open Sublime Text from the Terminal or Git Bash.
+ - Be able to open Atom from the Terminal or Git Bash.
 
 ##### 4. Download and Install Slack
 
