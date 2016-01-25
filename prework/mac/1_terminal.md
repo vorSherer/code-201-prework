@@ -1,7 +1,7 @@
 Setup for Mac OS X
 ------------------
 
-This guide will help you setup a software development environment on [Mac OS X 10.9 Mavericks](https://www.apple.com/osx/) and above. By the end, your computer will be configured with the same state-of-the-art tools used by professional software developers.
+This guide will help you setup a software development environment on <a href="https://www.apple.com/osx/" target="_blank">Mac OS X 10.9 Mavericks</a> and above. By the end, your computer will be configured with the same state-of-the-art tools used by professional software developers.
 
 This guide is mostly compatible with older versions of Mac OS X. So follow along as best you can while Googling any problems you come across.
 

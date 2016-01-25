@@ -1,6 +1,6 @@
 ### Install Atom Text Editor
 
-It's time to install [Atom](http://atom.io), a sophisticated text editor for code, markup and prose.
+It's time to install <a href="http://atom.io" target="_blank">Atom</a>, a sophisticated text editor for code, markup and prose.
 
 To get started, run the following command in your terminal to check your operating system’s type:
 
@@ -12,7 +12,7 @@ If your computer is an i386 system, you will not be able to install and use Atom
 
 Currently only a 64-bit version is available.
 
-Download atom-amd64.deb from the [Atom releases page](https://github.com/atom/atom/releases/latest).
+Download atom-amd64.deb from the <a href="https://github.com/atom/atom/releases/latest" target="_blank">Atom releases page</a>.
 Run `sudo dpkg --install atom-amd64.deb` on the downloaded package.
 
 Once installed, launch Atom using Spotlight Search.

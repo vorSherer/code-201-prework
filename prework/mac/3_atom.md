@@ -1,8 +1,8 @@
 ### Install Atom Text Editor
 
-Now it's time to install [Atom](http://atom.io), a sophisticated text editor for code, markup, and prose.
+Now it's time to install <a href="https://atom.io/" target="_blank">Atom</a>, a sophisticated text editor for code, markup, and prose.
 
-To get started, download [Atom](http://atom.io) and drag the app icon into your `/Applications` folder.
+To get started, download <a href="https://atom.io/" target="_blank">Atom</a> and drag the app icon into your `/Applications` folder.
 
 **TIP:** Remember to eject the disk image after installing the app.
 
@@ -21,6 +21,6 @@ atom
 ```
 If Atom opens, you're good to go.
 
-If Atom does not open, please notify an instructor or TA in your class Slack channel. 
+If Atom does not open, please notify an instructor or TA in your class Slack channel.
 
 ### [⇐ Previous](2_homebrew.md) | [Next ⇒](4_git.md)

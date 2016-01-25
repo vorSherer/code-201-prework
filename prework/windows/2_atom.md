@@ -1,8 +1,8 @@
 ### Install Atom Text Editor
 
-Now it's time to install [Atom](http://atom.io), a sophisticated text editor for code, markup, and prose.
+Now it's time to install <a href="https://atom.io/" target="_blank">Atom</a>, a sophisticated text editor for code, markup, and prose.
 
-To get started, download [Atom](http://atom.io) and run the installer. Again, go with the default installation options, unless you really know you want to change something.
+To get started, download <a href="https://atom.io/" target="_blank">Atom</a> and run the installer. Again, go with the default installation options, unless you really know you want to change something.
 
 Once installed, use the Start Menu to launch Atom.
 
@@ -17,7 +17,7 @@ atom
 ```
 If Atom opens, you're good to go.
 
-If Atom does not open, please notify an instructor or TA in your class Slack channel. 
+If Atom does not open, please notify an instructor or TA in your class Slack channel.
 
 
 ### [⇐ Previous](1_terminal.md) | [Next ⇒](3_git.md)

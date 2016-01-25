@@ -1,6 +1,6 @@
 ### Install Git
 
-Using APT, you can also install [Git](http://git-scm.com/), the version control system of choice among choosy developers.
+Using APT, you can also install <a href="http://git-scm.com/" target="_blank">Git</a>, the version control system of choice among choosy developers.
 
 Version control systems let programmers share and collaborate on code. With Git, multiple programmers can work on the same files, and Git keeps track of who made what changes, when. Git is usually used with a website, GitHub, that stores code (in "repositories") and lets programmers review and discuss changes before they are added. In short, Git makes everyone's lives easier.
 
@@ -24,9 +24,9 @@ And you'll see something like this.
 
 Like artists, programmers sign their work. Let's configure Git to sign your commits with your name and email address.
 
-Make sure you sign up for an account at Github [here](https://github.com).
+Make sure you sign up for an account at Github <a href="https://github.com" target="_blank">here</a>.
 
-**WARNING:** Before running the following commands, replace `YOUR FULL NAME` and `YOUR EMAIL ADDRESS` with the name and email from [your GitHub account](https://github.com/settings/profile).
+**WARNING:** Before running the following commands, replace `YOUR FULL NAME` and `YOUR EMAIL ADDRESS` with the name and email from <a href="https://github.com/settings/profile" target="_blank">your GitHub account</a>.
 
 ```
 git config --global user.name 'YOUR FULL NAME'

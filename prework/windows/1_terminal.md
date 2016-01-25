@@ -1,7 +1,7 @@
 Setup for Windows
 -----------------
 
-This guide will help you setup a software development environment on [Windows 7](http://windows.microsoft.com/en-us/windows/home) and above. By the end, your computer will be configured with the same state-of-the-art tools used by professional software developers.
+This guide will help you setup a software development environment on <a href="http://windows.microsoft.com/en-us/windows/products" target="_blank">Windows 7</a> and above. By the end, your computer will be configured with the same state-of-the-art tools used by professional software developers.
 
 This guide is mostly compatible with older versions of Windows. So follow along as best you can while Googling any problems you come across.
 
@@ -19,13 +19,13 @@ CAVEAT: Until Windows adopts more Unix standards, please be aware that any Unix-
 
 ### Install Git for Windows
 
-[Git for Windows](http://msysgit.github.io/) brings the full feature set of Git to Windows. (More on Git in a moment.) It also includes **Bash**, a popular Unix shell. Besides giving you the ability to talk to your computer by typing commands, it also lets you use Git in the command line, just like other Unix environments.
+<a href="http://msysgit.github.io/" target="_blank">Git for Windows</a> brings the full feature set of Git to Windows. (More on Git in a moment.) It also includes **Bash**, a popular Unix shell. Besides giving you the ability to talk to your computer by typing commands, it also lets you use Git in the command line, just like other Unix environments.
 
 What's Git? It's a very popular **version control** system. Version control systems let programmers share and collaborate on code. With Git, multiple programmers can work on the same files, and Git keeps track of who made what changes, when. Git is usually used with a website, GitHub, that stores code (in "repositories") and lets programmers review and discuss changes before they are added. In short, Git makes everyone's lives easier.
 
-To get started, download [Git for Windows](http://msysgit.github.io/). Once you click the "download" button, you'll see a list of download options.
+To get started, download <a href="http://msysgit.github.io/" target="_blank">Git for Windows</a>. Once you click the "download" button, you'll see a list of download options.
 
-Look closely at the first two filenames in the list. One says "32 bit", and the other says "64 bit". Those are the different versions for 32-bit and 64-bit Windows. Download the one for your system. If you don't know whether your version of Windows is 32- or 64-bit, [find out](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows).
+Look closely at the first two filenames in the list. One says "32 bit", and the other says "64 bit". Those are the different versions for 32-bit and 64-bit Windows. Download the one for your system. If you don't know whether your version of Windows is 32- or 64-bit, <a href="http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows" target="_blank">find out</a>.
 
 Once you get it downloaded, double-click the file to open the installer. It will guide you through several options; the defaults are just fine, so keep on clicking "Next" until it's done.
 

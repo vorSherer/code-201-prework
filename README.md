@@ -6,7 +6,7 @@ Code 201: Foundations of Software Development
 ##### NOTE: If you have taken Code 101 already, skip to #3. The guide in #3 is similar to Code 101's prework but contains additional steps you must complete prior to Code 201.
 
 ##### 1. Code 101
-If you are completely new to coding, consider completing [Code 101](https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech) to build your first website using HTML and CSS and to find out if a career in software development is right for you.
+If you are completely new to coding, consider completing <a href="https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech" target="_blank">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
 
 ##### 2. Ensure your laptop up to the task of coding
 
@@ -31,7 +31,7 @@ Following completion of these Pre-work assignments, you should:
 
 We use Slack to distribute files and collaborate before, during, and after the workshop.
 
-  - [Download Slack](https://slack.com/apps)
+  - <a href="https://slack.com/apps" target="_blank">Download Slack</a>
 
 Look for an email from us prior to the workshop, in order to join our Slack team.
 
@@ -39,11 +39,10 @@ Look for an email from us prior to the workshop, in order to join our Slack team
 
 If you haven't already, purchase this textbook set prior to the first day of class:
 
-  - ['Web Design with HTML & CSS; JavaScript & jQuery' book set by Jon Duckett](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&me=)
+  - <a href="http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&amp;me=" target="_blank">Web Design with HTML &amp; CSS; JavaScript &amp; jQuery book set</a> by Jon Duckett
 
 ##### 6. Tutorials
 Complete these tutorials prior to the first day of class.
 
-   - [HTML/CSS Codecademy](https://www.codecademy.com/tracks/web)
-   - [JavaScript Codecademy](https://www.codecademy.com/tracks/javascript)
-
+   - <a href="https://www.codecademy.com/tracks/web" target="_blank">HTML/CSS Codecademy</a>
+   - <a href="https://www.codecademy.com/tracks/javascript" target="_blank">JavaScript Codecademy</a>

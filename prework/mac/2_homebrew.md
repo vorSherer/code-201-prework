@@ -8,7 +8,7 @@ which brew
 
 If you get an error message, then we need to install it. Follow below to install or skip to Update Homebrew if it is installed.
 
-Now it's time to install [Homebrew](http://brew.sh/), the de facto package manager for OS X. If you've never heard of a package manager, think of it as an App Store of **free** command line programs.
+Now it's time to install <a href="http://brew.sh/" target="_blank">Homebrew</a>, the de facto package manager for OS X. If you've never heard of a package manager, think of it as an App Store of **free** command line programs.
 
 To get started, run the following command.
 
@@ -16,7 +16,7 @@ To get started, run the following command.
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 ```
 
-**TIP:** Be sure to agree when asked to install the **XCode CommandLine Tools**. This takes about 30 minutes to download and install on average.
+**TIP:** Be sure to agree when asked to install the **XCode Command Line Tools**. This takes about 30 minutes to download and install on average.
 
 
 ### Update Homebrew
