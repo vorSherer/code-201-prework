@@ -32,14 +32,12 @@ If Atom does not open, please notify an instructor or TA in your class Slack cha
 
 Once you've verified that your `atom` shell command is functional, run the following command in your terminal, from any directory, to install the base packages which will help add additional functionality to your editor.
 
-- `apm install open-in-browser minimap highlight-selected linter linter-eslint`
+- `apm install open-in-browser minimap highlight-selected`
 
 This will install the following packages:
 1. Open In Browser: `ctrl-alt-q` hotkey to open your HTML page in the browser from Atom
 2. Mini-Map: Installs a mini map (useful for seeing your code at a high level) in the right hand column of the editor window
 3. Highlight Selected: Highlights all instances of a word or phrase when one instance in double-clicked or cursor-highlighted
-4. Linter - Base Atom Linter (Syntax Validation)
-5. esLint - JavaScript-specific Linter which will provide feedback in your JS file showing any syntax errors in your code
 
 ### Associate Atom with Git
 
