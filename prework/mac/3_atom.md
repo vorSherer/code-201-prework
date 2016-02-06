@@ -22,6 +22,7 @@ If Atom opens, you're good to go.
 If Atom does not open, please notify an instructor or TA in your class Slack channel.
 
 **apm**
+
 Once you've verified that your `atom` shell command is functional, run the following command in your terminal, from any directory, to install the base packages which will help add additional functionality to your editor.
 
 - `apm install open-in-browser minimap highlight-selected linter linter-eslint`
