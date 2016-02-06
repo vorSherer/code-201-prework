@@ -9,7 +9,9 @@ To get started, download [Atom]([Atom](https://atom.io/)) and drag the app icon 
 Once installed, launch Atom using Spotlight Search.
 
 ### `atom` & `apm` (shell commands)
-`atom`
+```
+atom
+```
 You'll find it insanely useful to open files and directories into Atom from the Terminal.
 
 Navigate to the following menu in Atom: `Atom->Install Shell Commands` (Select this option from the menu, and Atom will alert you when the commands have completed)
@@ -20,7 +22,9 @@ If Atom opens, you're good to go.
 
 If Atom does not open, please notify an instructor or TA in your class Slack channel.
 
-`apm`
+```
+apm
+```
 Once you've verified that your `atom` shell command is functional, run the following command in your terminal, from any directory, to install the base packages which will help add additional functionality to your editor.
 
 - `apm install open-in-browser minimap highlight-selected linter linter-eslint`
