@@ -35,6 +35,8 @@ We use Slack to distribute files and collaborate before, during, and after the w
 
 Look for an email from us prior to the workshop, in order to join our Slack team.
 
+Once you have joined, add a nice profile picture of your lovely face. Then say hello in your class channel, and introduce yourself.
+
 ##### 5. Purchase the required textbooks
 
 If you haven't already, purchase this textbook set prior to the first day of class:
