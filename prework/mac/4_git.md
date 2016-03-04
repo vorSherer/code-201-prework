@@ -77,7 +77,7 @@ user.name='YOUR FULL NAME'
 
 ### Congratulations!
 
-Time for a frosty beverage. :beers:
+You have now completed Step 3 of 6 in the Code 201 pre-work. Please return [here](../README.md) to complete the remaining steps (4-6).
 
 
 ### [⇐ Previous](3_atom.md) | [README ⇒](../../../../)
