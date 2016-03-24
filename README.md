@@ -3,7 +3,9 @@ Code 201: Foundations of Software Development
 
 ### Pre-work
 
-There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. That pre-work is outlined in six steps on this page. Note that in Step 3 there are specific instructions that are dependent upon your operating system, and also keep in mind that upon completing those steps that there are still Steps 4-6 to complete on this page, including code tutorials that take quite a bit of time.
+There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. For each piece of pre-work listed here, there is a corresponding assignment in Canvas, and these assignments are due by the end of the Friday before the class starts. *Be sure to remember to submit responses to the Canvas assignments as you complete each portion of the pre-work.*
+
+Pre-work is outlined in nine steps on this page. Note that in Step 3 there are specific instructions that are dependent upon your operating system, and also keep in mind that upon completing those steps that there are still Steps 4-9 to complete on this page, including code tutorials that take quite a bit of time.
 
 Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it. Expect to spend, **at a minimum**, several evenings and a weekend day or two to get everything completed. Allow yourself more time than you think you will need so that you can take breaks and work at a methodical pace without rushing or trying to cut corners. Detailed time estimates are provided in the following overview.
 
@@ -16,11 +18,14 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 3. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
 4. Download and Install Slack *(15-30 minutes)*
 5. Purchase Required textbooks *(15-30 minutes)*
-6. Tutorials on Codecademy
+6. Brush up on Algebra *(1-2 hours)*
+7. Practice the Terminal *(1-2 hours)*
+8. Read through a Git tutorial on Udemy *(1-2 hours)*
+9. Tutorials on Codecademy
   - HTML/CSS *(Codecademy estimates 7 hours; we suggest allowing 10 hours)*
   - JavaScript *(Codecademy estimates 10 hours; we suggest allowing 20 hours because this is the most challenging piece of the pre-work)*
 
-**Total estimated time for pre-work Steps 3-6: 18.5 to 34 hours of working time (not counting breaks)**
+**Total estimated time for pre-work Steps 3-9: 21.5 to 40 hours of working time (not counting breaks)**
 
 ##### 1. Code 101 *(optional, one full 12-hour day)*
 If you are completely new to coding, consider completing <a href="https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech" target="_blank">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
@@ -60,7 +65,35 @@ If you haven't already, purchase this textbook set prior to the first day of cla
 
   - <a href="http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&amp;me=" target="_blank">Web Design with HTML &amp; CSS; JavaScript &amp; jQuery book set</a> by Jon Duckett
 
-##### 6. Tutorials *(17-30 hours)*
+##### 6. Brush up on Algebra *(1-2 hours)*
+
+Take some time to review essential algebra. These kinds of logical and mathematical concepts will be very useful to you as you dig into writing code.
+
+Here's a list of algebra topics for your review:
+
+[http://www.mathsisfun.com/algebra/index.html](http://www.mathsisfun.com/algebra/index.html)
+
+You don't need to read through each topic, but you should have familiarity with most of them. You should have good familiarity with exponents and polynomials, and be sure to read the sections on Functions and Logarithms, as well as any others that look interesting to you.
+
+##### 7. Practice the Terminal *(1-2 hours)*
+
+One significant aspect of creating software is interacting directly with text files. One of the most efficient ways to do this is through the Terminal, or Command Line.
+
+If you aren't already, this is a great time to get used to the command line. Here are a few tutorials that can assist you:
+
+Mac and Linux are pretty similar: [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
+
+Please work through sections 1 through 5. Also recommended: 7 and 8.
+
+It may feel a little scary at first, but stick with it and give it some practice. This is you, in charge of your computer. :]
+
+##### 8. Read through this Git tutorial on Udemy *(1-2 hours)*
+
+There is a lot of useful information in this tutorial, but it is a lot to digest for beginners. Read through as much of it as you can while still understanding what is going on. Learning about version control is one of the most challenging things in the first week of the class. Above all, strive for a conceptual understanding of how version control works, and why we use it in software development. The details are much more easy to grasp once the concepts are in place.
+
+[https://blog.udemy.com/git-tutorial-a-comprehensive-guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
+
+##### 9. Tutorials *(17-30 hours)*
 Complete these tutorials prior to the first day of class.
 
    - <a href="https://www.codecademy.com/tracks/web" target="_blank">HTML/CSS Codecademy</a>

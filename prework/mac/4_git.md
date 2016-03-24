@@ -77,7 +77,6 @@ user.name='YOUR FULL NAME'
 
 ### Congratulations!
 
-You have now completed Step 3 of 6 in the Code 201 pre-work. Please return [here](../README.md) to complete the remaining steps (4-6).
-
+You have now completed Step 3 of 9 in the Code 201 pre-work. Please follow the README link below to complete the remaining steps (4-9).
 
 ### [⇐ Previous](3_atom.md) | [README ⇒](../../../../)
