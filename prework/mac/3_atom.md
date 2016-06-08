@@ -39,8 +39,5 @@ It's important to establish a default editor with Git, as it's the program that 
 Type the following command in your terminal:
 `git config --global core.editor "atom --wait"`
 
-### Congratulations!
-
-Time for a frosty beverage. :beers:
 
 ### [⇐ Previous](2_homebrew.md) | [Next ⇒](4_git.md)
