@@ -50,7 +50,7 @@ To verify Homebrew is installed correctly, run the following command.
 brew doctor
 ```
 
-And you'll see something like this.
+If Homebrew is you'll see something like this:
 
 ![](https://i.imgur.com/DWfdE3D.png)
 
