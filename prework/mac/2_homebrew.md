@@ -54,5 +54,8 @@ And you'll see something like this.
 
 ![](https://i.imgur.com/DWfdE3D.png)
 
+If Homebrew is not installed, you will see something like:
+```
+-bash: brew: command not found ```
 
 ### [⇐ Previous](1_terminal.md) | [Next ⇒](3_atom.md)
