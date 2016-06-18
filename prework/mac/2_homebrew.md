@@ -6,7 +6,7 @@ You may already have Homebrew installed. Let's see if you do. Type
 which brew
 ```
 
-If you do not have Homebrew installed you will *not* get an error message! No message will be provided at all! Instead you will see the same prompt as before.  In that case,  we need to install Homebrew.
+If you do not have Homebrew installed you will **not** get an error message! No message will be provided at all! Instead you will see the same prompt as before.  In that case,  we need to install Homebrew.
 
 If Homebrew *is* installed, you will see some text like `/usr/local/bin/brew` followed by the command prompt on the next line.  
 
