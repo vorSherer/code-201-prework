@@ -19,7 +19,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 4. Download and Install Slack *(15-30 minutes)*
 5. Purchase Required textbooks *(15-30 minutes)*
 6. Brush up on Algebra *(1-2 hours)*
-7. Practice the Terminal *(1-2 hours)*
+7. Practice the Terminal *(2-3 hours)*
 8. Read through a Git tutorial on Udemy *(1-2 hours)*
 9. Tutorials on Codecademy
   - HTML/CSS *(Codecademy estimates 7 hours; we suggest allowing 10 hours)*
@@ -81,11 +81,16 @@ One significant aspect of creating software is interacting directly with text fi
 
 If you aren't already, this is a great time to get used to the command line. Here are a few tutorials that can assist you:
 
-Mac and Linux are pretty similar: [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
+1. **Treehouse** - This is a great set of online video tutorials with practice problems/quizzes.  It is free to try (2 week trial).  
 
-Please work through sections 1 through 5. Also recommended: 7 and 8.
+	Do the first part of Console Foundations course (just the "Getting Started With the Console" section, which takes about an hour)  [https://teamtreehouse.com/library/console-foundations] (https://teamtreehouse.com/library/console-foundations)
+	Feel free to explore the more advanced topics if you wish (Users and Permissions, Environment and Redirection, etc.) but those topics are beyond the scope of the Code 201 course!
 
-It may feel a little scary at first, but stick with it and give it some practice. This is you, in charge of your computer. :]
+2. **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
+
+	Please work through sections 1 through 5 of the linux tutorial. Also recommended: 7 and 8.
+
+Using the terminal may feel a little scary at first, but stick with it and give it some practice. This is you, in charge of your computer. :]
 
 ##### 8. Read through this Git tutorial on Udemy *(1-2 hours)*
 
