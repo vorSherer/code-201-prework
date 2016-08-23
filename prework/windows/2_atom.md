@@ -22,7 +22,7 @@ If Atom does not open, please notify an instructor or TA in your class Slack cha
 
 Once you've verified that your `atom` shell command is functional, run the following command in your terminal, from any directory, to install the base packages which will help add additional functionality to your editor.
 
-- `apm install open-in-browser minimap highlight-selected`
+- `apm install open-in-browser minimap highlight-selected linter linter-eslint tree-view-git-status file-icons`
 
 This will install the following packages:
 1. Open In Browser: `ctrl-alt-q` hotkey to open your HTML page in the browser from Atom

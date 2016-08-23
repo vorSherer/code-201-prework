@@ -24,11 +24,12 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 9. Tutorials on Codecademy
   - HTML/CSS *(Codecademy estimates 7 hours; we suggest allowing 10 hours)*
   - JavaScript *(Codecademy estimates 10 hours; we suggest allowing 20 hours because this is the most challenging piece of the pre-work)*
+10. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
-**Total estimated time for pre-work Steps 3-9: 21.5 to 40 hours of working time (not counting breaks)**
+**Total estimated time for pre-work Steps 3-10: 23.5 to 43 hours of working time (not counting breaks)**
 
 ##### 1. Code 101 *(optional, one full 12-hour day)*
-If you are completely new to coding, consider completing <a href="https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech" target="_blank">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
+If you are completely new to coding, consider completing <a href="https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
 
 ##### 2. Ensure your laptop up to the task of coding *(time for this can vary widely depending upon the age and condition of your laptop)*
 
@@ -53,7 +54,7 @@ Following completion of these Pre-work assignments, you should:
 
 We use Slack to distribute files and collaborate before, during, and after the workshop.
 
-  - <a href="https://slack.com/downloads" target="_blank">Download Slack</a>
+  - <a href="https://slack.com/downloads">Download Slack</a>
 
 Look for an email from us prior to the workshop, in order to join our Slack team.
 
@@ -63,7 +64,7 @@ Once you have joined, add a nice profile picture of your lovely face. Then say h
 
 If you haven't already, purchase this textbook set prior to the first day of class:
 
-  - <a href="http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&amp;me=" target="_blank">Web Design with HTML &amp; CSS; JavaScript &amp; jQuery book set</a> by Jon Duckett
+  - <a href="http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&amp;me=">Web Design with HTML &amp; CSS; JavaScript &amp; jQuery book set</a> by Jon Duckett
 
 ##### 6. Brush up on Algebra *(1-2 hours)*
 
@@ -101,5 +102,19 @@ There is a lot of useful information in this tutorial, but it is a lot to digest
 ##### 9. Tutorials *(17-30 hours)*
 Complete these tutorials prior to the first day of class.
 
-   - <a href="https://www.codecademy.com/tracks/web" target="_blank">HTML/CSS Codecademy</a>
-   - <a href="https://www.codecademy.com/tracks/javascript" target="_blank">JavaScript Codecademy</a>
+   - <a href="https://www.codecademy.com/tracks/web">HTML/CSS Codecademy</a>
+   - <a href="https://www.codecademy.com/tracks/javascript">JavaScript Codecademy</a>
+
+##### 10. Complete the textbook readings for Day 1 of class *(2-3 hours)*
+
+We get started right away on Day 1, so be sure to read the following chapters from the textbooks AND complete the associated discussion assignments in Canvas:
+
+- From the **HTML & CSS** textbook:
+  - Chapter 1: "Structure"
+  - Chapter 8: "Extra Markup"
+  - Chapter 17: "HTML5 Layout"
+  - Chapter 18: "Process & Design"
+- From the **JavaScript** textbook:
+  - Chapter 1: "The ABC of Programming"
+
+Plan to spend about 20-30 minutes with each chapter. Do not strive to methodically read and retain every single word, because we cover hundreds of pages of text in the first two weeks of the course. Instead, aim for an understanding of the big topics and orientation to where the details are so that you can find them when you need them. And be sure to read closely enough to come up with questions and observations based on your reading!

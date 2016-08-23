@@ -20,9 +20,6 @@ To get started, run the following command.
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 ```
 
-**TIP:** Be sure to agree when asked to install the **XCode Command Line Tools**. This takes about 30 minutes to download and install on average.
-
-
 ### Update Homebrew
 
 If you've previously installed Homebrew, now's a good time to update it by running the following command.
