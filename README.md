@@ -3,7 +3,7 @@ Code 201: Foundations of Software Development
 
 ### Pre-work
 
-There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. For each piece of pre-work listed here, there is a corresponding assignment in Canvas, and these assignments are due by the end of the Friday before the class starts. *Be sure to remember to submit responses to the Canvas assignments as you complete each portion of the pre-work.*
+There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System shortly after you've completed the enrollment process. In the meantime, please keep notes on your progress through these pre-work assignments, including the time you have invested in them and also details on any questions or problems you encounter.
 
 Pre-work is outlined in nine steps on this page. Note that in Step 3 there are specific instructions that are dependent upon your operating system, and also keep in mind that upon completing those steps that there are still Steps 4-9 to complete on this page, including code tutorials that take quite a bit of time.
 
@@ -50,23 +50,13 @@ Following completion of these Pre-work assignments, you should:
  - Be able to receive a valid response when typing "git --version"
  - Be able to open Atom from the Terminal or Git Bash.
 
-##### 4. Download and Install Slack *(15-30 minutes)*
-
-We use Slack to distribute files and collaborate before, during, and after the workshop.
-
-  - <a href="https://slack.com/downloads">Download Slack</a>
-
-Look for an email from us prior to the workshop, in order to join our Slack team.
-
-Once you have joined, add a nice profile picture of your lovely face. Then say hello in your class channel, and introduce yourself.
-
-##### 5. Purchase the required textbooks *(15-30 minutes)*
+##### 4. Purchase the required textbooks *(15-30 minutes)*
 
 If you haven't already, purchase this textbook set prior to the first day of class:
 
   - <a href="http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&amp;me=">Web Design with HTML &amp; CSS; JavaScript &amp; jQuery book set</a> by Jon Duckett
 
-##### 6. Brush up on Algebra *(1-2 hours)*
+##### 5. Brush up on Algebra *(1-2 hours)*
 
 Take some time to review essential algebra. These kinds of logical and mathematical concepts will be very useful to you as you dig into writing code.
 
@@ -76,7 +66,7 @@ Here's a list of algebra topics for your review:
 
 You don't need to read through each topic, but you should have familiarity with most of them. You should have good familiarity with exponents and polynomials, and be sure to read the sections on Functions and Logarithms, as well as any others that look interesting to you.
 
-##### 7. Practice the Terminal *(1-2 hours)*
+##### 6. Practice the Terminal *(1-2 hours)*
 
 One significant aspect of creating software is interacting directly with text files. One of the most efficient ways to do this is through the Terminal, or Command Line.
 
@@ -93,21 +83,21 @@ If you aren't already, this is a great time to get used to the command line. Her
 
 Using the terminal may feel a little scary at first, but stick with it and give it some practice. This is you, in charge of your computer. :]
 
-##### 8. Read through this Git tutorial on Udemy *(1-2 hours)*
+##### 7. Read through this Git tutorial on Udemy *(1-2 hours)*
 
 There is a lot of useful information in this tutorial, but it is a lot to digest for beginners. Read through as much of it as you can while still understanding what is going on. Learning about version control is one of the most challenging things in the first week of the class. Above all, strive for a conceptual understanding of how version control works, and why we use it in software development. The details are much more easy to grasp once the concepts are in place.
 
 [https://blog.udemy.com/git-tutorial-a-comprehensive-guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 
-##### 9. Tutorials *(17-30 hours)*
+##### 8. Tutorials *(17-30 hours)*
 Complete these tutorials prior to the first day of class.
 
    - <a href="https://www.codecademy.com/tracks/web">HTML/CSS Codecademy</a>
    - <a href="https://www.codecademy.com/tracks/javascript">JavaScript Codecademy</a>
 
-##### 10. Complete the textbook readings for Day 1 of class *(2-3 hours)*
+##### 9. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
-We get started right away on Day 1, so be sure to read the following chapters from the textbooks AND complete the associated discussion assignments in Canvas:
+We get started right away on Day 1, so be sure to read the following chapters from the textbooks AND complete the associated discussion assignments in our Learning Management System (which you will have access to once your enrollment process is complete):
 
 - From the **HTML & CSS** textbook:
   - Chapter 1: "Structure"
@@ -118,3 +108,13 @@ We get started right away on Day 1, so be sure to read the following chapters fr
   - Chapter 1: "The ABC of Programming"
 
 Plan to spend about 20-30 minutes with each chapter. Do not strive to methodically read and retain every single word, because we cover hundreds of pages of text in the first two weeks of the course. Instead, aim for an understanding of the big topics and orientation to where the details are so that you can find them when you need them. And be sure to read closely enough to come up with questions and observations based on your reading!
+
+##### 10. Download and Install Slack (do this step after your enrollment is completed) *(15-30 minutes)*
+
+We use Slack to distribute files and collaborate before, during, and after the workshop.
+
+  - <a href="https://slack.com/downloads">Download Slack</a>
+
+Look for an email from us prior to class, in order to join our Slack team.
+
+Once you have joined, add a nice profile picture of your lovely face. Then say hello in your class channel, and introduce yourself.
