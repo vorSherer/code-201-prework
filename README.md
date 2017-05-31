@@ -13,7 +13,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 
 ### Overview of Pre-work Steps *(time to complete per item)*
 
-1. Code 101 *(optional, one full 12-hour day)* [Details](https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech)
+1. Code 101 *(optional, one full 12-hour day)* 
 1. Laptop readiness *(time for this can vary widely depending upon the age and condition of your laptop)*
 1. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
 1. Download and Install Slack *(15-30 minutes)*
@@ -21,8 +21,8 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 1. Brush up on Algebra *(1-2 hours)*
 1. Practice the Terminal *(2-3 hours)*
 1. Read through a Git tutorial on Udemy *(1-2 hours)*
-1. Intro to JavaScript [Programming Tutorial](https://www.khanacademy.org/computing/computer-programming/programming), from Kahn Academy *(estimated at 15-40 hours)*
-1. Codecademy [HTML+CSS tutorial](https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/what-is-html?action=lesson_resume) *(Codecademy estimates 10 hours)*
+1. Intro to JavaScript Programming Tutorial, from Kahn Academy *(estimated at 15-40 hours)*
+1. Codecademy HTML+CSS tutorial *(Codecademy estimates 10 hours)*
 1. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
 **Total estimated time for pre-work Steps 3-10: 23.5 to 43 hours of working time (not counting breaks)**
@@ -88,7 +88,7 @@ There is a lot of useful information in this tutorial, but it is a lot to digest
 
 [https://blog.udemy.com/git-tutorial-a-comprehensive-guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 
-##### 8. Tutorials *(17-30 hours)*
+##### 8. Tutorials *(25-50 hours)*
 Complete these tutorials prior to the first day of class.
 
    - Codecademy: <a href="https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/what-is-html?action=lesson_resume">Intro to HTML+CSS</a>
