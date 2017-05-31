@@ -71,9 +71,9 @@ One significant aspect of creating software is interacting directly with text fi
 
 If you aren't already, this is a great time to get used to the command line. Here are a few tutorials that can assist you:
 
-1. **Treehouse** - This is a great set of online video tutorials with practice problems/quizzes.  It is free to try (2 week trial).  
+1. **Treehouse** - This is a great set of online video tutorials with practice problems/quizzes.  It is free to try (1 week trial).  
 
-	Do the first part of Console Foundations course (just the "Getting Started With the Console" section, which takes about an hour)  [https://teamtreehouse.com/library/console-foundations] (https://teamtreehouse.com/library/console-foundations)
+	Do the first part of Console Foundations course (just the "Getting Started With the Console" section, which takes about an hour)  [https://teamtreehouse.com/library/console-foundations](https://teamtreehouse.com/library/console-foundations)
 	Feel free to explore the more advanced topics if you wish (Users and Permissions, Environment and Redirection, etc.) but those topics are beyond the scope of the Code 201 course!
 
 2. **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
