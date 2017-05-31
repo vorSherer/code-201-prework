@@ -91,8 +91,8 @@ There is a lot of useful information in this tutorial, but it is a lot to digest
 ##### 8. Tutorials *(17-30 hours)*
 Complete these tutorials prior to the first day of class.
 
-   - <a href="https://www.codecademy.com/tracks/web">HTML/CSS Codecademy</a>
-   - <a href="https://www.codecademy.com/tracks/javascript">JavaScript Codecademy</a>
+   - Codecademy: <a href="https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/what-is-html?action=lesson_resume">Intro to HTML+CSS</a>
+   - Kahn Academy: <a href="https://www.khanacademy.org/computing/computer-programming/programming">Intro to JavaScript: Drawing and Animation</a>
 
 ##### 9. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
