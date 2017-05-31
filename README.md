@@ -73,7 +73,7 @@ If you aren't already, this is a great time to get used to the command line. Her
 
 1. **Treehouse** - This is a great set of online video tutorials with practice problems/quizzes.  It is free to try (1 week trial).  
 
-	Do the first part of Console Foundations course (just the "Getting Started With the Console" section, which takes about an hour)  [https://teamtreehouse.com/library/console-foundations](https://teamtreehouse.com/library/console-foundations)
+	Do the first part of [Console Foundations](https://teamtreehouse.com/library/console-foundations) course (just the "Getting Started With the Console" section, which takes about an hour)
 	Feel free to explore the more advanced topics if you wish (Users and Permissions, Environment and Redirection, etc.) but those topics are beyond the scope of the Code 201 course!
 
 2. **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
@@ -112,7 +112,7 @@ Plan to spend about 20-30 minutes with each chapter. Do not strive to methodical
 
 We use Slack to distribute files and collaborate before, during, and after the workshop.
 
-  - <a href="https://slack.com/downloads">Download Slack</a>
+  - [Download Slack](https://slack.com/downloads)
 
 Look for an email from us prior to class, in order to join our Slack team.
 
