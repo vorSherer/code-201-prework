@@ -21,7 +21,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 1. Brush up on Algebra *(1-2 hours)*
 1. Practice the Terminal *(2-3 hours)*
 1. Read through a Git tutorial on Udemy *(1-2 hours)*
-1. Intro to JavaScript Programming Tutorial, from Kahn Academy *(estimated at 15-40 hours)*
+1. Intro to JavaScript Programming Tutorial, from Khan Academy *(estimated at 15-40 hours)*
 1. Codecademy HTML+CSS tutorial *(Codecademy estimates 10 hours)*
 1. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
@@ -92,7 +92,7 @@ There is a lot of useful information in this tutorial, but it is a lot to digest
 Complete these tutorials prior to the first day of class.
 
    - Codecademy: <a href="https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/what-is-html?action=lesson_resume">Intro to HTML+CSS</a>
-   - Kahn Academy: <a href="https://www.khanacademy.org/computing/computer-programming/programming">Intro to JavaScript: Drawing and Animation</a>
+   - Khan Academy: <a href="https://www.khanacademy.org/computing/computer-programming/programming">Intro to JavaScript: Drawing and Animation</a>
 
 ##### 9. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
