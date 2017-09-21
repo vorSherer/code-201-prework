@@ -69,16 +69,11 @@ You don't need to read through each topic, but you should have familiarity with 
 
 One significant aspect of creating software is interacting directly with text files. One of the most efficient ways to do this is through the Terminal, or Command Line.
 
-If you aren't already, this is a great time to get used to the command line. Here are a few tutorials that can assist you:
+If you aren't already, this is a great time to get used to the command line. Here are a tutorial that can assist you:
 
-1. **Treehouse** - This is a great set of online video tutorials with practice problems/quizzes.  It is free to try (1 week trial).  
+ **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
 
-	Do the first part of [Console Foundations](https://teamtreehouse.com/library/console-foundations) course (just the "Getting Started With the Console" section, which takes about an hour)
-	Feel free to explore the more advanced topics if you wish (Users and Permissions, Environment and Redirection, etc.) but those topics are beyond the scope of the Code 201 course!
-
-2. **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
-
-	Please work through sections 1 through 5 of the linux tutorial. Also recommended: 7 and 8.
+	Please work through sections 1 through 5 of the linux tutorial. Also recommended: 7 and 8. Feel free to explore the more advanced topics if you wish,but those topics are beyond the scope of the Code 201 course!
 
 Using the terminal may feel a little scary at first, but stick with it and give it some practice. This is you, in charge of your computer. :]
 
@@ -89,7 +84,7 @@ There is a lot of useful information in this tutorial, but it is a lot to digest
 [https://blog.udemy.com/git-tutorial-a-comprehensive-guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 
 ##### 8. Tutorials *(25-50 hours)*
-Complete these tutorials prior to the first day of class.
+Complete these online tutorials prior to the first day of class.
 
    - <a href="https://www.khanacademy.org/computing/computer-programming/html-css">Intro to HTML+CSS</a> (up through and including the “Web development tools” section) on Khan Academy
    - <a href="https://www.khanacademy.org/computing/computer-programming/programming">Intro to JavaScript: Drawing and Animation</a> on Khan Academy
@@ -110,7 +105,7 @@ Plan to spend about 20-30 minutes with each chapter. Do not strive to methodical
 
 ##### 10. Download and Install Slack (do this step after your enrollment is completed) *(15-30 minutes)*
 
-We use Slack to distribute files and collaborate before, during, and after the workshop.
+We use Slack to distribute files and collaborate before, during, and after the workshop. Install the app on both your laptop and on your mobile device.
 
   - [Download Slack](https://slack.com/downloads)
 
