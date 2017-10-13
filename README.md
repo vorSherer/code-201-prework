@@ -13,19 +13,18 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 
 ### Overview of Pre-work Steps *(time to complete per item)*
 
-1. Code 101 *(optional, one full 12-hour day)* 
+1. Code 101 *(optional, one full 12-hour day)*
 1. Laptop readiness *(time for this can vary widely depending upon the age and condition of your laptop)*
 1. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
-1. Download and Install Slack *(15-30 minutes)*
 1. Purchase Required textbooks *(15-30 minutes)*
 1. Brush up on Algebra *(1-2 hours)*
 1. Practice the Terminal *(2-3 hours)*
 1. Read through a Git tutorial on Udemy *(1-2 hours)*
-1. Intro to JavaScript Programming Tutorial, from Khan Academy *(estimated at 15-40 hours)*
-1. Codecademy HTML+CSS tutorial *(Codecademy estimates 10 hours)*
+1. HTML, CSS, and Javascript tutorials from Khan Academy *(estimated at 15-40 hours)*
 1. Complete the textbook readings for Day 1 of class *(2-3 hours)*
+1. Download and Install Slack *(15-30 minutes)*
 
-**Total estimated time for pre-work Steps 3-10: 23.5 to 43 hours of working time (not counting breaks)**
+**Total estimated time for pre-work Steps 3-10: 23 to 54 hours of working time (not counting breaks)**
 
 ##### 1. Code 101 *(optional, one full 12-hour day)*
 If you are completely new to coding, consider completing <a href="https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
