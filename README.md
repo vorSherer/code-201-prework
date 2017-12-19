@@ -3,11 +3,7 @@ Code 201: Foundations of Software Development
 
 ### Pre-work
 
-<<<<<<< HEAD
-There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System (Canvas) shortly after you've completed the enrollment process and the Canvas course has been published (generally a few days before class starts). In the meantime, please keep notes on your progress through these pre-work assignments, including the time you have invested in them and also details on any questions or problems you encounter.
-=======
 There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System (called Canvas, by a company named Instructure) shortly after you've completed the enrollment process. In the meantime, please keep notes on your progress through these pre-work assignments, including the time you have invested in them and also details on any questions or problems you encounter.
->>>>>>> e6bb993a1992e3aafe42f79a2340b1b8bec781c2
 
 Pre-work is outlined in ten steps on this page. Note that in Step 3 there are specific instructions that are dependent upon your operating system, and also keep in mind that upon completing those steps that there are still Steps 4-9 to complete on this page, including code tutorials that take quite a bit of time.
 
