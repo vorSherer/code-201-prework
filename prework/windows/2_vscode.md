@@ -2,7 +2,7 @@
 
 Now it's time to install VSCode Text Editor, a sophisticated text editor for code, markup, and prose.
 
-To get started, download [VSCode](https://atom.io/) and run the installer. Again, go with the default installation options, unless you really know you want to change something.
+To get started, download [VSCode](https://code.visualstudio.com/download) and run the installer. Again, go with the default installation options, unless you really know you want to change something.
 
 [VSCode's documentation](https://code.visualstudio.com/docs) is excellent. Review it now to familiarize yourself with the basics.
 
