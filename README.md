@@ -3,7 +3,7 @@ Code 201: Foundations of Software Development
 
 ### Pre-work
 
-There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System shortly after you've completed the enrollment process. In the meantime, please keep notes on your progress through these pre-work assignments, including the time you have invested in them and also details on any questions or problems you encounter.
+There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System (Canvas) shortly after you've completed the enrollment process and the Canvas course has been published (generally a few days before class starts). In the meantime, please keep notes on your progress through these pre-work assignments, including the time you have invested in them and also details on any questions or problems you encounter.
 
 Pre-work is outlined in nine steps on this page. Note that in Step 3 there are specific instructions that are dependent upon your operating system, and also keep in mind that upon completing those steps that there are still Steps 4-9 to complete on this page, including code tutorials that take quite a bit of time.
 
@@ -46,7 +46,7 @@ If you are completely new to coding, consider completing <a href="https://www.co
 Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
  - Be able to receive a valid response when typing "git --version"
- - Be able to open Atom from the Terminal or Git Bash.
+ - Be able to open VSCode from the Terminal or Git Bash.
 
 ##### 4. Purchase the required textbooks *(15-30 minutes)*
 
@@ -72,17 +72,25 @@ If you aren't already, this is a great time to get used to the command line. Her
 
  **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
 
-	Please work through sections 1 through 5 of the linux tutorial. Also recommended: 7 and 8. Feel free to explore the more advanced topics if you wish,but those topics are beyond the scope of the Code 201 course!
+	Please work through sections 1 through 5 of the Linux tutorial. Also recommended: 7 and 8. Feel free to explore the more advanced topics if you wish,but those topics are beyond the scope of the Code 201 course!
 
 Using the terminal may feel a little scary at first, but stick with it and give it some practice. This is you, in charge of your computer. :]
 
-##### 7. Read through this Git tutorial on Udemy *(1-2 hours)*
+##### 7. Git tutorials *(1-2 hours)*
 
-There is a lot of useful information in this tutorial, but it is a lot to digest for beginners. Read through as much of it as you can while still understanding what is going on. Learning about version control is one of the most challenging things in the first week of the class. Above all, strive for a conceptual understanding of how version control works, and why we use it in software development. The details are much more easy to grasp once the concepts are in place.
+**A.** There is a lot of useful information in the Udemy tutorial, but it is a lot to digest for beginners. Skim through it as you can while striving to acquire terminology and gaining an understanding of the large concepts. Learning about version control is one of the most challenging things in the first week of Code 201. Above all, for now, strive for a conceptual understanding of how version control works, and why we use it in software development. The details are much more easy to grasp once the concepts are in place.
 
 [https://blog.udemy.com/git-tutorial-a-comprehensive-guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 
-##### 8. Tutorials *(25-50 hours)*
+**B.** For a little hands-on practice, complete the first three exercises in the following tutorial:
+
+[https://learngitbranching.js.org](https://learngitbranching.js.org )
+
+1. Introduction to Git Commits
+1. Branching in Git
+1. Merging in Git
+
+##### 8. HTML, CSS, and JS Tutorials *(25-50 hours)*
 Complete these online tutorials prior to the first day of class.
 
    - <a href="https://www.khanacademy.org/computing/computer-programming/html-css">Intro to HTML+CSS</a> (up through and including the “Web development tools” section) on Khan Academy
@@ -101,6 +109,8 @@ We get started right away on Day 1, so be sure to read the following chapters fr
   - Chapter 1: "The ABC of Programming"
 
 Plan to spend about 20-30 minutes with each chapter. Do not strive to methodically read and retain every single word, because we cover hundreds of pages of text in the first two weeks of the course. Instead, aim for an understanding of the big topics and orientation to where the details are so that you can find them when you need them. And be sure to read closely enough to come up with questions and observations based on your reading!
+
+It can be helpful to start each chapter by reading the single-page summary at the end of the chapter to get a feel for the most important topics.
 
 ##### 10. Download and Install Slack (do this step after your enrollment is completed) *(15-30 minutes)*
 
