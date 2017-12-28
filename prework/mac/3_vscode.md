@@ -20,7 +20,7 @@ To verify VSCode is wired up correctly, run the `code` command from your termina
 
 If VSCode opens, you're good to go.
 
-If VSCode does not open, try the above process again. If it still does not work, we will remedy it during lab on the first day of class. 
+If VSCode does not open, try the above process again. If it still does not work, we will remedy it during lab on the first day of class.
 
 ### Associate VSCode with Git
 

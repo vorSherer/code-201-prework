@@ -14,7 +14,7 @@ To verify VSCode is wired up correctly, run the `code` command from your termina
 
 If VSCode opens, you're good to go.
 
-If VSCode does not open, try the above process again. If it still does not work, we will remedy it during lab on the first day of class. 
+If VSCode does not open, try the above process again. If it still does not work, we will remedy it during lab on the first day of class.
 
 ### Associate VSCode with Git
 
@@ -25,4 +25,4 @@ Type the following command in your terminal:
 
 If you have any problems, make note of them and we will address them in lab on the first day of class.
 
-### [⇐ Previous](2_homebrew.md) | [Next ⇒](4_git.md)
+### [⇐ Previous](3_git.md) | [Back to README ⇒](../../../../)
