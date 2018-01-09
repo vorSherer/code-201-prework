@@ -57,4 +57,4 @@ Now at this point when you type `tree` in git bash, git bash will look at your p
 
 If it doesn't work, or at any point if you run into difficulties, then stop and let your instructor know. They will help you set this up during the first couple days of class!
  
-### [⇐ Previous](3_git.md) | [Back to README ⇒](../../../../../)
+### [⇐ Previous](3_git.md) | [Back to README ⇒](../../../../)
