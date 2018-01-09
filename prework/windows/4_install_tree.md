@@ -1,4 +1,4 @@
-# How to install Tree view for each machine.
+# Install Tree view for Windows.
 
 ## Context:
 
