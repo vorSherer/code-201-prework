@@ -6,13 +6,22 @@ Tree view allows you to list all directories, sub-directories, and files in a ni
 
 ### Windows:
 
-For windows, there are two options. By default, you can use the cmd that comes from windows, but the command is a little long, and the display for it doesn't look that nice. Alternatively, you can download and install a program, and add it to your Path.
+For windows, there are two options to choose from. 
+
+1. The default tree command.
+
+By default, you can use the cmd that comes from windows, but the command is a little long, and the display for it doesn't look that nice.
+
+2. The GnuWin Tree command.
+
+Alternatively, you can download, install, and update your path to use a program called tree which looks a lot cleaner than the default tree.
 
 
 #### Option 1: Default tree.
 
-To display the tree view, type: `cmd //c tree`. This only shows the directories and sub directories. If you want to see the files as well, then type `cmd //c tree //f`.
+This is the basic tree view command that comes with Windows. It works great in windows, but it doesn't look that good inside of our git bash terminal. Only use this command if you don't go with option 2. If you do go with option two, then ignore this command altogether.
 
+To display the default tree view, type: `cmd //c tree`. This command only shows the directories and sub directories. If you want to see the files as well, then type `cmd //c tree //f`.
 
 
 
