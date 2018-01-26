@@ -127,7 +127,7 @@ Once you have joined, add a nice profile picture of your lovely face. Then say h
 
 There are four assignments for you to complete in this category before the the first class; details are in the linked documents:
 
-- [Read the Career Coaching Overview](https://github.com/codefellows/career_coaching)
-- [Complete the Professional Competency Self-Assessment](https://github.com/codefellows/career_coaching/blob/master/Code_201/Professional_Competency_Self-Assessment.md)
-- [Prepare your resume](https://github.com/codefellows/career_coaching/blob/master/Code_201/Prepare_Your_Resume.md)
-- [Prepare your LinkedIn profile](https://github.com/codefellows/career_coaching/blob/master/Code_201/Prepare_Your_LinkedIn.md)
+- [Read the Career Coaching Overview](https://codefellows.github.io/common_curriculum/career_coaching/)
+- [Complete the Professional Competency Self-Assessment](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Professional_Competency_Self-Assessment)
+- [Prepare your resume](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_Resume)
+- [Prepare your LinkedIn profile](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_LinkedIn)
