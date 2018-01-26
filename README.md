@@ -32,7 +32,7 @@ If you are completely new to coding, consider completing <a href="https://www.co
 
 ##### 2. Ensure your laptop up to the task of coding *(time for this can vary widely depending upon the age and condition of your laptop)*
 
-  - Are virus and malware free
+  - Eliminate all viruses and malware
   - Uses the latest, stable, updated version of its operating system
   - Has a functioning screen, keyboard, and trackpad
   - Has plenty of free hard drive space and memory
