@@ -30,9 +30,9 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 ##### 1. Code 101 *(optional, one full 12-hour day)*
 If you are completely new to coding, consider completing <a href="https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
 
-##### 2. Ensure your laptop up to the task of coding *(time for this can vary widely depending upon the age and condition of your laptop)*
+##### 2. Ensure your laptop is up to the task of coding *(time for this can vary widely depending upon the age and condition of your laptop)*
 
-  - Is virus and malware free
+  - Eliminate all viruses and malware
   - Uses the latest, stable, updated version of its operating system
   - Has a functioning screen, keyboard, and trackpad
   - Has plenty of free hard drive space and memory
@@ -69,11 +69,11 @@ You don't need to read through each topic, but you should have familiarity with 
 
 One significant aspect of creating software is interacting directly with text files. One of the most efficient ways to do this is through the Terminal, or Command Line.
 
-If you aren't already, this is a great time to get used to the command line. Here are a tutorial that can assist you:
+If you aren't already, this is a great time to get used to the command line. Here is a tutorial that can assist you:
 
  **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
 
-	Please work through sections 1 through 5 of the Linux tutorial. Also recommended: 7 and 8. Feel free to explore the more advanced topics if you wish,but those topics are beyond the scope of the Code 201 course!
+    Please work through sections 1 through 5 of the Linux tutorial. Also recommended: 7 and 8. Feel free to explore the more advanced topics if you wish, but those topics are beyond the scope of the Code 201 course!
 
 Using the terminal may feel a little scary at first, but stick with it and give it some practice. This is you, in charge of your computer. :]
 
@@ -125,7 +125,7 @@ Once you have joined, add a nice profile picture of your lovely face. Then say h
 
 #### 11. Complete the assigned Career Coaching assignments *(2-3 hours)*
 
-There are four assignments for you to complete in this category before the the first class; details are in the linked documents:
+There are four assignments for you to complete in this category before the first class; details are in the linked documents:
 
 - [Read the Career Coaching Overview](https://codefellows.github.io/common_curriculum/career_coaching/)
 - [Complete the Professional Competency Self-Assessment](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Professional_Competency_Self-Assessment)
