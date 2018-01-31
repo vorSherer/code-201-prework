@@ -1,4 +1,4 @@
-## Install VSCode Text Editor
+# Install VSCode Text Editor
 
 Now it's time to install VSCode Text Editor, a sophisticated text editor for code, markup, and prose.
 
@@ -6,7 +6,7 @@ To get started, download [VSCode](https://code.visualstudio.com/download), and a
 
 [VSCode's documentation](https://code.visualstudio.com/docs) is excellent. Review it now to familiarize yourself with the basics.
 
-### Install shell commands
+## Install shell commands
 
 You'll find it useful to open files and directories in VSCode from the terminal, but that functionality needs to be configured first. 
 
@@ -16,7 +16,7 @@ Restart the terminal for the new $PATH value to take effect. You'll be able to t
 
 If VSCode does not open, try the above process again. If it still does not work, we will remedy it during lab on the first day of class.
 
-### Associate VSCode with Git
+## Associate VSCode with Git
 
 It's important to establish a default editor with Git (version control software) so that when Git opens files, that happens in your chosen editor.
 
@@ -25,7 +25,7 @@ Type the following command in your terminal:
 
 This command will not return any message unless there is an error.
 
-### Install Node
+# Install Node
 
 *Note*: If you get an error while installing these packages such as "try again as root/administrator", you may need to use the `sudo` command to get administrator access. For example `sudo apt-get install nodejs`. Note: the `sudo` command is a dangerous and powerful command, and generally should not be used unless you understand why you need to use it in a given situation. In this case, however, the `sudo` commands have been carefully reviewed.
 
@@ -35,7 +35,7 @@ To install Node, open your Terminal, and enter:
 
 It will take a few minutes for the download and installation process to complete.
 
-#### Verify the Node installation
+## Verify the Node installation
 
 Now let's verify that it is installed. Enter the following into your terminal:
 
@@ -43,7 +43,7 @@ Now let's verify that it is installed. Enter the following into your terminal:
 
 You should get a response that says "works". If not, try reinstalling Node again. If you are still having issues, please contact your instructor.
 
-### Install ESLint
+# Install ESLint
 
 Now that you have Node installed, you can install Node packages using its package manager, **NPM**. Open your terminal (Git Bash on Windows) and enter:
 
@@ -51,7 +51,7 @@ Now that you have Node installed, you can install Node packages using its packag
 
 You should see a lot of feedback as it installs.
 
-### Verify the installation
+## Verify the installation
 
 Now let's verify that ESLint is installed. Enter the following into your terminal:
 
@@ -59,7 +59,7 @@ Now let's verify that ESLint is installed. Enter the following into your termina
 
 You should see ESLint among the list of installed packages. If not, run the previous installation command again.
 
-### What is this linter thing?
+## What is this linter thing?
 
 Linting is the process of running a program that will analyze code for potential errors, some of which are syntax errors and some of which are style errors. It is an important part of the quality assurance process.
 
@@ -67,7 +67,7 @@ Linting is the process of running a program that will analyze code for potential
 
 That means the linter is your friend! It will help you write syntactically correct code, so you can catch errors in your text editor, rather than having to navigate to the browser, refresh your page, and search for errors. Faster feedback makes for happier developers (that's you!).
 
-### Integrate ESLint with VS Code
+## Integrate ESLint with VS Code
 
 Download and install the ESLint extension for VS Code [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint). In VS Code, click the gear icon in the lower left corner and select Command Palette. Search for an option named `ESLint: Enable ESlint` and click on it to enable linting within your editor. VS Code will now display errors and warnings in your JavaScript files.
 
