@@ -42,7 +42,7 @@ If you are completely new to coding, consider completing <a href="https://www.co
 
   - [Mac OS X](prework/mac/1_terminal.md)
   - [Ubuntu](prework/ubuntu/1_terminal.md)
-  - [Windows](prework/windows/1_terminal.md)
+  - [Windows](prework/windows/01_preface.md)
 
 Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
