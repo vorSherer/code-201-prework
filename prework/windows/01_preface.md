@@ -1,7 +1,7 @@
 
 # Windows Subsystem for Linux 
 
-Checkout this [YouTube playlist](https://www.youtube.com/watch?v=ixqKqHfCDWM&list=PLOOqtDuWOt4auhgOzv8NdCDhBYgblR6Fd) that walks through this entire guide!
+## Checkout this [YouTube playlist](https://www.youtube.com/watch?v=ixqKqHfCDWM&list=PLOOqtDuWOt4auhgOzv8NdCDhBYgblR6Fd) that walks through this entire guide!
  
 ## Overview  
  
