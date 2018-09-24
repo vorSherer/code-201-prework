@@ -99,6 +99,8 @@ Complete these online tutorials prior to the first day of class.
    - <a href="https://www.khanacademy.org/computing/computer-programming/html-css">Intro to HTML+CSS</a> (up through and including the “Web development tools” section) on Khan Academy
    - <a href="https://www.khanacademy.org/computing/computer-programming/programming">Intro to JavaScript: Drawing and Animation</a> on Khan Academy
 
+   **Note:** In the JavaScript course, do everything through the section titled "Objects"; do not do the sections titled "Object Oriented Design" or "Becoming a Better Programmer".
+
 ##### 9. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
 We get started right away on Day 1, so be sure to read the following chapters from the textbooks AND complete the associated discussion assignments in our Learning Management System (which you will have access to once your enrollment process is complete):
