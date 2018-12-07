@@ -21,14 +21,7 @@ In summary, you should install all programs on the Ubuntu FS, but keep all of yo
 
 ### NPM
 
-NPM stands for Node Package Manager. It is very much like Ubuntu's APT, but it is meant to help developers using JavaScript. 
-
-A common use case for NPM would be to install a package that you need for a project.
-   - `sudo npm install cowsay` would tell npm to install the cowsay package. 
-   - `const cowsay = require('cowsay')` bring that package into your project by requiring it in at the top of your app.js file (or any file ending in .js)
-
-Another common use case would be to install a package that would help you in your development process.
-  - `sudo npm install -g eslint` tells npm to install the package, but instead of it being used just for this project, you are telling NPM to install it globally with the -g flag. The only time you should install packages globally is when they are **not** crucial to a projects functionality. In this case, eslint gives us warnings and lets us know when we make syntactical mistakes, but the program will run just fine without it.
+NPM stands for Node Package Manager. It is very much like Ubuntu's APT, but it is meant to help developers using JavaScript. Another common use case would be to install a package that would help you in your development process.
 
 **NOTE** - If a program from the Windows FS needs to use something from npm (like VSCode needs ESlint) then you should install it globally and also on your Windows Root. 
 
