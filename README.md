@@ -40,6 +40,8 @@ If you are completely new to coding, consider completing <a href="https://www.co
 
 ##### 3. Complete the setup guide for your computer's operating system *(multiple downloads are involved; 1-3 hours depending on your network speed)*
 
+###### CODE 101/102 DOES NOT COVER YOUR COMPTER SETUP FOR 201. MAKE SURE TO FOLLOW THE ENTIRE SETUP GUIDE FOR YOUR OPERATING SYSTEM 
+
   - [Mac OS X](prework/mac/1_terminal.md)
   - [Ubuntu](prework/ubuntu/1_terminal.md)
   - [Windows](prework/windows/01_preface.md)
