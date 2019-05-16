@@ -131,5 +131,5 @@ If you found this guide beneficial then please reach out to me and let me know! 
 
 **Don't forget to run `sudo apt-get upgrade` when you have time!**
 
-### [⇐ Previous](./06_final_steps.md)
+### [⇐ Previous](./05_VSCode_Node_GIt_install.md)
 
