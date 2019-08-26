@@ -93,13 +93,13 @@ cdwr
 
 4. After pasting that in, you will need to replace `WIN_USERNAME` with your Windows username, right after `.../Users/`. IE: `/Users/MichaelLeonTreat/`.
 
-4a. If your path has a space, you can use an backslash escape character to include the space. IE: `/Users/Michael\ Treat/`.
+    -NOTE: If your path or username has a space, you can use an backslash escape character to include the space. IE: `/Users/Michael\ Treat/`.
 
 5. After that you're done in this editor, so press `ctrl + x` at the same time to quit. It will ask if you want to save changes. Hit `y` and the editor will save your changes. It will then ask what to name the file. Just hit enter to keep the same name. 
 
-And you're done! 
+Pin your Ubuntu app to the task bar, close it down, and relaunch it. Congrats, you're done! 
 
-### Extra Info
+### Review what just happened
 
 1. In the file you pasted there was a section at the bottom that exports `wr` and sets up the `cdwr` alias. What this does is adds a unique variable and a command to your terminal.
 
