@@ -81,7 +81,7 @@ alias chrome="/mnt/c/Program\ Files\ \(x86\)/Google/Chrome/Application/chrome.ex
 # This allows you to switch between the Ubuntu root and your Windows Root.
 
 # wr evaluates to the absolute path to your Windows user's root.
-export wr=~/../../mnt/c/Users/<Windows Username>/
+export wr=~/../../mnt/c/Users/WIN_USERNAME/
 
 # This gives us a quick way of moving directly to the Windows root
 alias cdwr='cd "$wr"'
@@ -91,7 +91,7 @@ cdwr
 
 ```
 
-4. After pasting that in, you will need to add your Windows username right after `/Users/`. IE: `/Users/MichaelLeonTreat/`.
+4. After pasting that in, you will need to replace `WIN_USERNAME` with your Windows username, right after `.../Users/`. IE: `/Users/MichaelLeonTreat/`.
 
 4a. If your path has a space, you can use an backslash escape character to include the space. IE: `/Users/Michael\ Treat/`.
 
