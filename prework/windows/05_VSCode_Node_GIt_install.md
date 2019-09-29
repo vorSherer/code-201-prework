@@ -76,9 +76,11 @@ But now there are two versions of Git installed right? Correct. The nice thing a
 
 1. Visit [git-scm.com](https://git-scm.com/) to download and install Git.
 2. Follow the onscreen instructions. 
-- Choose the default values for each prompt
-- **EXCEPT** when it asks you to `Choose the default editor used by Git`, click the drop down and choose the VSCode option. 
-- This will allow you to handle merge conflicts in your editor instead of in your command line which is another reason to have Git on Windows as well.
+- Choose the default values for each prompt...
+    - **EXCEPT** when it asks you to `Choose the default editor used by Git`... 
+        - click the drop down and choose the VSCode option
+        - Do NOT choose the "VSCode Insiders" option. 
+    - This will allow you to handle merge conflicts in your editor instead of in your command line which is another reason to have Git on Windows as well.
 3. Continue choosing the default options to finish the installation.
 
 NOTE: Git for Windows also comes with a terminal called Git Bash. This is what a lot of Windows users have used in the past as their solution to the POSIX / Unix-like terminal problem. We will be using the Ubuntu app instead.
