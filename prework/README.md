@@ -1,6 +1,6 @@
 # Computer Setup Guide
 
-The following guides will walk you through isntalling the essentials (and a few extras) on your computer. 
+The following guides will walk you through installing the essentials (and a few extras) on your computer. 
 
 Proceed with focus, and mind the details! 
 
