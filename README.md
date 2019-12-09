@@ -27,7 +27,17 @@ Code 201: Computer Setup
   - [Windows 10](prework/windows/01_preface.md)
   - [Ubuntu Linux(if you do not have Windows 10 or Mac OS)](prework/ubuntu/1_terminal.md)
 
-#### By the time you’ve completed the guide, you should be able to run the following commands in your terminal, and have each report a version number of what’s installed (should look *similar* to below example). Should you run across any errors that give you trouble please get a hold of contact below:
+#### By the time you’ve completed the guide, you should be able to run the following commands in your terminal:
+- code --version
+- git --version
+- node --version
+- npm --version
+- eslint --version
+- tree --version
+- echo $PS1
+- cat ~/.gitconfig
+
+#### Each command should report a version number of what’s installed (should look *similar* to below example). Should you run across any errors that give you trouble please get a hold of contact below:
 
 ``` 
 username@user $ code --version
