@@ -7,6 +7,7 @@ Code 201: Computer Setup
 2. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
 
 ### Material Requirements
+
 #### 1. Ensure your laptop is up to the task of coding specified in the [Code Fellows Material Requirements](https://www.codefellows.org/courses/code-201/foundations-of-software-development/#material-requirements)
 
 > ##### *Chromebooks are not suitable for this course, most students use Macs* 
@@ -28,6 +29,7 @@ Code 201: Computer Setup
   - [Ubuntu Linux(if you do not have Windows 10 or Mac OS)](prework/ubuntu/1_terminal.md)
 
 #### By the time you’ve completed the guide, you should be able to run the following commands in your terminal:
+
 - code --version
 - git --version
 - node --version
@@ -66,9 +68,10 @@ username@user $ code
 //should open VSCode
 ```
 ---
-#### Code 102 *(day or night classes)*
-If you think you could benefit from a classroom setting with guidance, consider completing <a href="https://www.codefellows.org/courses/code-102/intro-to-software-development/">Code 102</a>. You’ll receive 30 hours of instruction as you blast through the prework for Code 201, while getting a tour of the tools and techniques of modern developers..
 
 #### Need help or have questions about computer setup?
+
 Please contact our Admissions Support Instructor: <brad.smialek@codefellows.com> 
+
+If Code 102 self-study isn't right for you, we understand. Ask about Code 102 (day or night classes) in a classroom setting with guidance. You’ll receive 30 hours of instruction as you blast through the prework for Code 201, while getting a tour of the tools and techniques of modern developers..
 
