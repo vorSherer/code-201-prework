@@ -25,7 +25,7 @@ Code 201: Computer Setup
 > ###### *CODE 101 DOES NOT COVER YOUR COMPUTER SETUP FOR 201. MAKE SURE TO FOLLOW THE ENTIRE SETUP GUIDE FOR YOUR OPERATING SYSTEM - Graduates of code 102 will have completed this computer setup step.* 
 
   - [Mac OS X](prework/mac/1_terminal.md)
-  - [Windows 10](prework/windows/01_preface.md)
+  - [Windows 10](prework/windows/02_WSL_Ubuntu_setup.md)
   - [Ubuntu Linux(if you do not have Windows 10 or Mac OS)](prework/ubuntu/1_terminal.md)
 
 #### By the time you’ve completed the guide, you should be able to run the following commands in your terminal:
