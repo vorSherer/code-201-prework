@@ -9,7 +9,7 @@ sudo add-apt-repository -y ppa:git-core/ppa
 sudo apt-get update
 ```
 
-**TIP:** This may require your account password which **will not** appear on the screen as you type.
+**TIP:** This may require your account password which **will not** appear on the screen as you type, but is tracking your key-strokes.
 
 ### Install Tree view
 
