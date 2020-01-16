@@ -17,8 +17,4 @@ Once that's done we can install a quick awesome command called `tree`. What `tre
 
 Type `sudo apt install tree`. Once that's done, you can type `tree` to see the tree view of the directory that you're currently in! You may have to close and restart your terminal before it will work.
 
---
-
-These commands tell APT where to look for certain files (Git). We'll use them in the next step.
-
 ### [⇐ Previous](1_terminal.md) | [Next ⇒](3_git.md)

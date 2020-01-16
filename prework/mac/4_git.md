@@ -26,26 +26,12 @@ If you are running:
 
 - 10.10 Yosemite or higher: continue below
 
-**NOTE:** You will need to change your install permissions to be able to install Git. The installer will prompt you to do so if necessary.
-
-Using Homebrew, you can install Git, the version control system of choice among choosy developers.
-
-Version control systems let programmers share and collaborate on code. With Git, multiple programmers can work on the same files, and Git keeps track of who made what changes, when. Git is usually used with a website, GitHub, that stores code (in "repositories") and lets programmers review and discuss changes before they are added. In short, Git makes everyone's lives easier.
+**NOTE:** You may need to change your install permissions to be able to install Git. The installer will prompt you to do so if necessary.
 
 To get started, run the following command.
 ```
 brew install git
 ```
-
-Once it is fully installed, run the following command.
-
-```
-git --version
-```
-
-And you'll see something like this.
-
-![](https://i.imgur.com/jBSs1qR.png)
 
 ### Git Config
 
@@ -59,23 +45,14 @@ Sign up for an account at Github <a href="https://github.com" target="_blank">he
 
 ```
 git config --global user.name 'YOUR FULL NAME'
+```
+```
 git config --global user.email 'YOUR EMAIL ADDRESS'
+```
+```
 git config --global core.editor 'code --wait'
 ```
 
-The terminal does not send success messages, in order to double check that you have successfully assigned your username and email:
-
-```
-git config --list
-```
-
-Your terminal should output the following lines, among others:
-
-```
-user.email='YOUR EMAIL ADDRESS'
-user.name='YOUR FULL NAME'
-core.editor='code --wait'
-```
 ### Git Prompt Setup
 
 To get started, run the following command.
@@ -151,8 +128,67 @@ Now close terminal and open a new terminal window for changes to take effect.
 You will have a new prompt with additional Git and color-coded features.
 Don't worry about what this means for now. You will come to understand it's value very soon.
 
-### Congratulations!
+# Final Steps
 
-You have now completed Step 3 of 9 in the Code 201 pre-work. Please follow the README link below to complete the remaining steps (4-9).
+### VSCode Extensions
+
+1. To add extensions to VSCode, open up VSCode. On the bottom left hand side you will see a cog icon.  Click this and select extensions. A side-bar will slide out and at the top you can search for the listed extensions below and click the green 'Install' button:
+
+  - live server 5.6.1
+  - ESLint 2.0.13
+  - HTML Snippets 0.2.1
+  - HTML Preview 0.2.5
+  - Debugger for Chrome
+
+### Verification
+
+#### By the time you’ve completed the guide, you should be able to run the following commands in your terminal:
+
+- code --version
+- git --version
+- node --version
+- npm --version
+- eslint --version
+- tree --version
+- echo $PS1
+- cat ~/.gitconfig
+- code
+  - should open VScode
+
+#### Each command should report a version number of what’s installed (should look *similar* to below example). Should you run across any errors that give you trouble please get a hold of contact below:
+
+``` 
+username@user $ code --version
+1.40.2
+f359dd69833dd8800b54d458f6d37ab7c78df520
+x64
+username@user $ git --version
+git version 2.2.0
+username@user $ node --version
+v10.16.0
+username@user $ npm --version
+6.9.0
+username@user $ eslint --version
+v6.7.2
+username@user $ tree --version
+tree v1.8.0 (c) 1996 - 2018 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro
+username@user $ echo $PS1
+\[\e[36m\]\A\[\e[m\] \[\e[32m\]\w\[\e[m\] \[\e[37;40m\]`parse_git_branch`\[\e[m\]
+username@user $ cat ~/.gitconfig
+[core]
+	editor = code --wait
+[user]
+	name = yourgithubusername
+	email = youremail
+username@user $ code
+//should open VSCode
+```
+---
+
+#### Need help or have questions about computer setup?
+
+Please contact our Admissions Support Instructor: <brad.smialek@codefellows.com> 
+
+## THE END! 
 
 ### [⇐ Previous](3_vscode.md) | [Back to README ⇒](../../../../)

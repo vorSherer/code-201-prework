@@ -18,7 +18,11 @@ Make sure you sign up for an account at Github <a href="https://github.com" targ
 
 ```
 git config --global user.name 'YOUR FULL NAME'
+```
+```
 git config --global user.email 'YOUR EMAIL ADDRESS'
+```
+```
 git config --global core.editor nano
 ```
 ### Git Prompt Setup
