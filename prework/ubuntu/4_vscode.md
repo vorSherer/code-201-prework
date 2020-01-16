@@ -8,17 +8,13 @@ To get started, download [VSCode](https://code.visualstudio.com/download), and a
 
 ### Install shell commands
 
-You'll find it useful to open files and directories in VSCode from the terminal, but that functionality needs to be configured first. 
+Open the **Command Palette** (⇧⌘P) and type 'shell command'
 
-Open the **Command Palette** (⇧⌘P) and type 'shell command' to find the **Shell Command: Install 'code' command in PATH** command.
+Then, click the **Shell Command: Install 'code' command in PATH** command.
 
-Restart the terminal for the new $PATH value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder. If VSCode opens, you're good to go.
-
-If VSCode does not open, try the above process again. If it still does not work, we will remedy it during lab on the first day of class.
+Restart the terminal for the new $PATH value to take effect. 
 
 ### Associate VSCode with Git
-
-It's important to establish a default editor with Git (version control software) so that when Git opens files, that happens in your chosen editor.
 
 Type the following command in your terminal:
 `git config --global core.editor "code --wait"`
@@ -39,25 +35,75 @@ If you run into issues trying to install Node from these steps, please contact y
 
 It will take a few minutes for the download and installation process to complete.
 
-#### Verify the Node installation
-
-Now let's verify that it is installed. Enter the following into your terminal:
-
-`nodejs -e 'console.log("works")'`
-
-You should get a response that says "works". If not, try reinstalling Node again. If you are still having issues, please contact your instructor.
-
 ### Install ESLint
 
-Now that you have Node installed, you can install Node packages using its package manager, **NPM**. Open your terminal (Ubuntu on Windows) and enter:
+Now that you have Node installed, you can install Node packages using its package manager, **NPM**. Open your terminal and enter:
 
 `npm -g i eslint git-open`
 
 You should see a lot of feedback as it installs.
 
-### Integrate ESLint with VS Code
+# Final Steps
 
-Download and install the ESLint extension for VS Code [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint). In VS Code, click the gear icon in the lower left corner and select Command Palette. Search for an option named `ESLint: Enable ESlint` and click on it to enable linting within your editor. VS Code will now display errors and warnings in your JavaScript files.
+### VSCode Extensions
 
+1. To add extensions to VSCode, open up VSCode. On the bottom left hand side you will see a cog icon.  Click this and select extensions. A side-bar will slide out and at the top you can search for the listed extensions below and click the green 'Install' button:
+
+  - live server 5.6.1
+  - ESLint 2.0.13
+  - HTML Snippets 0.2.1
+  - HTML Preview 0.2.5
+  - Debugger for Chrome
+
+### Verification
+
+#### By the time you’ve completed the guide, you should be able to run the following commands in your terminal:
+
+- code --version
+- git --version
+- node --version
+- npm --version
+- eslint --version
+- tree --version
+- echo $PS1
+- cat ~/.gitconfig
+- code
+  - should open VScode
+
+#### Each command should report a version number of what’s installed (should look *similar* to below example). Should you run across any errors that give you trouble please get a hold of contact below:
+
+``` 
+username@user $ code --version
+1.40.2
+f359dd69833dd8800b54d458f6d37ab7c78df520
+x64
+username@user $ git --version
+git version 2.2.0
+username@user $ node --version
+v10.16.0
+username@user $ npm --version
+6.9.0
+username@user $ eslint --version
+v6.7.2
+username@user $ tree --version
+tree v1.8.0 (c) 1996 - 2018 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro
+username@user $ echo $PS1
+\[\e[36m\]\A\[\e[m\] \[\e[32m\]\w\[\e[m\] \[\e[37;40m\]`parse_git_branch`\[\e[m\]
+username@user $ cat ~/.gitconfig
+[core]
+	editor = code --wait
+[user]
+	name = yourgithubusername
+	email = youremail
+username@user $ code
+//should open VSCode
+```
+---
+
+#### Need help or have questions about computer setup?
+
+Please contact our Admissions Support Instructor: <brad.smialek@codefellows.com> 
+
+## THE END! 
 
 ### [⇐ Previous](3_git.md) | [Back to README ⇒](../../../../)
