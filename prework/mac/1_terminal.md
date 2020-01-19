@@ -12,6 +12,7 @@ Included in Mac OS X is the **Terminal**—an app that runs a Unix shell.
 
 A **Unix shell** (often referred to as a "terminal") is a command line user interface between you and your computer's operating system.
 
+
 ## Change the Terminal Profile
 
 The default profile for the Terminal uses small, black text on a white background. Boring! Let's change that.
