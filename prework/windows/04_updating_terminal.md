@@ -4,7 +4,7 @@ This section will talk about how to update the Terminal's look and feel, as well
 
 At the end, this will add some color to your command line, and your command line will be formatted for development.
 
-### Updating the .profile file
+## Updating the .profile file
 
 1. Open the Ubuntu app and type `ls -a`. You should see a .profile file there. 
 	- **If not**, then type `sudo touch .profile`.
@@ -95,8 +95,8 @@ Hit `y` and the editor will save your changes.
 
 Hit enter.
 
-- To navigate to the Ubuntu root, you will type the normal `cd ~`.
-- To navigate to the Windows Root, you will type `cdwr`.
+- To navigate to the Ubuntu root, you will type the normal `cd ~`
+- To navigate to the Windows Root, you will type `cdwr`
 
 ### Install Tree view
 
