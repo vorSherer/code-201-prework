@@ -1,4 +1,5 @@
-Setup for Ubuntu
+# Setup for Ubuntu
+
 ----------------
 
 This guide will help you setup a software development environment on <a href="http://releases.ubuntu.com" target="_blank">Ubuntu</a>. By the end, your computer will be configured with the same state-of-the-art tools used by professional software developers.

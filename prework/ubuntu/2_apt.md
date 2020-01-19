@@ -1,4 +1,4 @@
-### Update APT
+# Update APT
 
 Now that your Terminal is setup, it's time to update Ubuntu's **Advanced Packaging Tool** or <a href="https://help.ubuntu.com/lts/serverguide/apt-get.html" target="_blank">APT</a> for short. If you've never heard of a package manager, think of it as an App Store of **free** command line programs.
 
@@ -11,7 +11,7 @@ sudo apt-get update
 
 **TIP:** This may require your account password which **will not** appear on the screen as you type, but is tracking your key-strokes.
 
-### Install Tree view
+## Install Tree view
 
 Once that's done we can install a quick awesome command called `tree`. What `tree` does is displays all of your directories and files in a nicely formatted tree so you can easily see your current file structure!
 

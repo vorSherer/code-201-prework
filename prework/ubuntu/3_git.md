@@ -1,4 +1,4 @@
-### Install Git
+# Install Git
 
 Using APT, you can also install <a href="http://git-scm.com/" target="_blank">Git</a>, the version control system of choice among choosy developers.
 
@@ -8,7 +8,7 @@ To get started, run the following command.
 sudo apt-get install -y git
 ```
 
-### Git Config
+## Git Config
 
 Like artists, programmers sign their work. Let's configure Git to sign your commits with your name and email address.
 

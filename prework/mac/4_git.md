@@ -1,14 +1,4 @@
-### Install Git
-
-Check if you already have <a href="http://git-scm.com/" target="_blank">Git</a> installed by running the following command.
-
-```
-git --version
-```
-
-You'll see something like this if it's installed. If it is, skip to Git Config, otherwise continue below.
-
-![](https://i.imgur.com/jBSs1qR.png)
+# Install Git
 
 Figure out what version of OS X you are running. From the Apple menu, choose About This Mac. The version of OS X installed appears directly below “OS X.” Click the version number to see the build number. You can also use <a href="https://support.apple.com/en-us/HT203001" target="_blank">System Information</a> to find these numbers.
 
@@ -24,18 +14,11 @@ If you are running:
 
 - 10.9 Mavericks: download and install this <a href="http://sourceforge.net/projects/git-osx-installer/files/git-2.5.3-intel-universal-mavericks.dmg/download" target="_blank">git-*-mavericks</a>
 
-- 10.10 Yosemite or higher: continue below
+- 10.10 Yosemite or higher: run the command `brew install git`.
 
 **NOTE:** You may need to change your install permissions to be able to install Git. The installer will prompt you to do so if necessary.
 
-To get started, run the following command.
-```
-brew install git
-```
-
-### Git Config
-
-You're on the home stretch now! :racehorse:
+## Git Config
 
 Like artists, programmers sign their work. Let's configure Git to sign your commits with your name and email address.
 
@@ -53,7 +36,7 @@ git config --global user.email 'YOUR EMAIL ADDRESS'
 git config --global core.editor 'code --wait'
 ```
 
-### Git Prompt Setup
+## Git Prompt Setup
 
 To get started, run the following command.
 ```
@@ -191,4 +174,4 @@ Please contact our Admissions Support Instructor: <brad.smialek@codefellows.com>
 
 ## THE END! 
 
-### [⇐ Previous](3_vscode.md) | [Back to README ⇒](../../../../)
+### [⇐ Previous](3_vscode.md)
