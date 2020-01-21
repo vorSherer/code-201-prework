@@ -133,9 +133,9 @@ Don't worry about what this means for now. You will come to understand it's valu
 - `npm --version`
 - `eslint --version`
 - `tree --version`
-- echo $PS1
-- cat ~/.gitconfig
-- code
+- `echo $PS1`
+- `cat ~/.gitconfig`
+- `code`
   - should open VScode
 
 #### Each command should report a version number of what’s installed (should look *similar* to below example). Should you run across any errors that give you trouble please get a hold of contact below:
