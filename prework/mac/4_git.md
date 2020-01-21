@@ -127,12 +127,12 @@ Don't worry about what this means for now. You will come to understand it's valu
 
 #### By the time you’ve completed the guide, you should be able to run the following commands in your terminal:
 
-- code --version
-- git --version
-- node --version
-- npm --version
-- eslint --version
-- tree --version
+- `code --version`
+- `git --version`
+- `node --version`
+- `npm --version`
+- `eslint --version`
+- `tree --version`
 - echo $PS1
 - cat ~/.gitconfig
 - code
