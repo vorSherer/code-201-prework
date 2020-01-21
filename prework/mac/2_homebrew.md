@@ -12,6 +12,7 @@ If **not** installed, you will **not** get an error message or a message of any 
 
 Now it's time to install <a href="http://brew.sh/" target="_blank">Homebrew</a>, the de facto package manager for OS X. If you've never heard of a package manager, think of it as an App Store of **free** command line programs.
 
+
 To get started, run the following command.
 
 ```
