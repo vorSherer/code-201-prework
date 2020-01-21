@@ -10,16 +10,15 @@ If Homebrew *is* installed, you will see some text like `/usr/local/bin/brew` fo
 
 If **not** installed, you will **not** get an error message or a message of any kind. 
 
-Now it's time to install <a href="http://brew.sh/" target="_blank">Homebrew</a>, the de facto package manager for OS X. If you've never heard of a package manager, think of it as an App Store of **free** command line programs.
+Now it's time to install Homebrew, a package manager for OS X. If you've never heard of a package manager, think of it as an App Store of **free** command line programs.
 
+NOTE: **If you do not have XCode installed**, be sure to agree when asked to install the XCode Command Line Tools, which is necessary for installing Homebrew. It will ask you for your password, and won't show you any feedback as you type it (not even "••••••"). This installation may take up to 30 minutes to download and install, depending upon your network connection speed.
 
 To get started, run the following command.
 
 ```
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 ```
-
-NOTE: **If you do not have XCode installed**, be sure to agree when asked to install the XCode Command Line Tools, which is necessary for installing Homebrew. It will ask you for your password, and won't show you any feedback as you type it (not even "••••••"). This installation may take up to 30 minutes to download and install, depending upon your network connection speed.
 
 ### Update Homebrew
 
