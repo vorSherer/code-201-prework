@@ -58,6 +58,6 @@ The final step here is to add your email and name to the Git config. This will a
 1. Close and re-open a new Ubuntu terminal
 1. Type `git config --global user.email 'your email here in single quotes'`.
 1. Type `git config --global user.name 'Your Name In Single Quotes'`.
-1. Type `git config --global core.editor nano`.
+1. Type `git config --global core.editor 'code --wait'`.
 
 ### [⇐ Previous](./04_updating_terminal.md) | [Next ⇒](./06_final_steps.md)
